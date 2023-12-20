@@ -1,4 +1,5 @@
 title: Muhammad Hamid
 logo :
 description : Mathematician 
-show downloads :
+Show_downloads : false
+theme : jekyll-theme-mimimal
